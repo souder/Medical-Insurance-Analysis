@@ -7,7 +7,7 @@ The calculated average age of 39 suggests that the majority of patients in the d
 
 ### Gender Distribution:
 
-The dataset exhibits a relatively balanced distribution between males (6766) and females (662). The small difference of 14 individuals, representing approximately 1.05% of the total, indicates a near-equitable gender representation.
+The dataset exhibits a relatively balanced distribution between males (676) and females (662). The small difference of 14 individuals, representing approximately 1.05% of the total, indicates a near-equitable gender representation.
 
 ### Regional Variances:
 
