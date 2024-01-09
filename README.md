@@ -3,23 +3,27 @@
 
 ### Demographic Overview:
 
-- The average age of patients is approximately 39 years, providing a central measure for the age distribution in the dataset. Further exploration into age ranges could reveal more nuanced insights.
+The calculated average age of 39 suggests that the majority of patients in the dataset fall around this age. This measure provides a central tendency, but further exploration, such as examining age ranges or creating a histogram, would offer a more complete understanding of the age distribution.
 
 ### Gender Distribution:
 
-- The dataset exhibits a balanced representation of genders, with 1352 males and 1324 females. The small difference of 28 individuals suggests a nearly equitable gender distribution.
+The dataset exhibits a relatively balanced distribution between males (6766) and females (662). The small difference of 14 individuals, representing approximately 1.05% of the total, indicates a near-equitable gender representation.
 
 ### Regional Variances:
 
-- Patients are distributed across different regions, with the Southeast having the highest count (728) and the Northeast the lowest (648). Understanding regional differences can inform targeted healthcare interventions.
+The regional distribution of patients reveals variations, with the Southeast having the highest count (364) and the Northeast the lowest (324). Understanding regional differences can be crucial for targeted healthcare interventions or resource allocation.
 
 ### Healthcare Charges:
 
-- The average yearly charge for patients is $13,270.42. Further investigation into the distribution of charges and potential influencing factors could provide valuable insights into healthcare cost dynamics.
+The average yearly charge of $13,270.42 provides a central measure for healthcare costs. Further investigation into the distribution of charges, potential outliers, or a comparison with other factors like region or smoking status could offer more nuanced insights.
+
+Median Yearly Charges:
+
+The analysis suggests that the median yearly charge is $9382.03. The recommendation is to consider the median instead of the average (mean) charges when assessing the central tendency of the data. This is advised because outliers in the dataset can significantly impact the mean, causing it to be skewed. By focusing on the median, which represents the middle value when the data is sorted, the impact of outliers is mitigated, providing a more robust measure of the central tendency for the yearly charges.
 
 ### Smoking Prevalence:
 
-- The count of smokers varies across regions, with the Southeast having the highest count (182). This information is crucial for understanding regional smoking patterns and planning targeted anti-smoking initiatives.
+Examining the count of smokers across regions reveals disparities, with the Southeast having the highest count (91). Understanding smoking prevalence in different regions is valuable for public health planning and targeted anti-smoking campaigns.
 
 ### Data Organization:
 
